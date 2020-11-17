@@ -9,9 +9,9 @@ class Main {
 
       System.out.println(Students[i]); 
 // Create a for loop to ask for the names according to the seat number.  
-      stringScanner Students = new Scanner(System.in);
+      stringScanner = new Scanner(System.in);
         System.out.println("Enter name");
-        String name = Students.nextLine();
+        String name = name.nextLine();
 
      }
     }
