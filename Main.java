@@ -25,3 +25,6 @@ public class Main {
       System.out.println(Students[count] + " is going to sit in #" + seats[count]);
       count++;
       // This does the final print of the user's names and seat number
+    }
+  }
+}
